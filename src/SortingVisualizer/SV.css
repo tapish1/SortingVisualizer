@@ -1,0 +1,10 @@
+.arrContainer {
+  margin-bottom: 0px;
+}
+
+.array-bar {
+  width: 3px;
+  background-color: aqua;
+  display: inline-block;
+  margin: 0 1px;
+}
